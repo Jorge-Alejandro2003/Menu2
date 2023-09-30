@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menu2</string>
+    <string name="irGoogle">Ir A Google</string>
+    <string name="irAlarma">Alarma</string>
+    <string name="irTelefono">LLamar</string>
+    <string name="irmapas">Maps</string>
+    <string name="ircamara">Camara</string>
+</resources>
